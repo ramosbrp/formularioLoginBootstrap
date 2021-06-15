@@ -1,0 +1,33 @@
+body{
+    background-color: #eeeeee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+
+h2{
+    margin: 20px ;
+}
+
+.area{
+    width: 100%;
+    max-width: 330px;
+    text-align: center;
+    padding: 10px;
+}
+.logo{
+    width: 100%;
+    height: auto;
+}
+.remember{
+    padding: 20px;
+    
+}
+.gray{
+    color: #999;
+}
+.padding{
+    padding: 20px;
+}
